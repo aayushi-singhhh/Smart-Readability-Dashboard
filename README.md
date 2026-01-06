@@ -2,9 +2,6 @@
 
 A beginner-friendly open-source web project that analyzes text readability using only HTML, CSS, and Vanilla JavaScript. Perfect for first-year students to understand and contribute to!
 
-![Demo Screenshot](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Smart+Readability+Dashboard)
-
-## 🚀 Getting Started
 
 1. **Download the project**
    ```bash
